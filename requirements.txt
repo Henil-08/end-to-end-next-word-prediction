@@ -8,4 +8,3 @@ matplotlib
 streamlit
 scikeras
 nltk
-pywin32==225
